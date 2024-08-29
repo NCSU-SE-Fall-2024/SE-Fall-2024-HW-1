@@ -4,7 +4,7 @@ def check_even_odd(number):
     else:
         return "Odd"
 
-# Example usage
+
 num = 8
 result = check_even_odd(num)
 print(f"{num} is {result}.")
