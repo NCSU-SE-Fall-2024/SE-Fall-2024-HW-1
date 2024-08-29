@@ -6,5 +6,5 @@ def test_one():
     assert check_even_odd(num) == "Odd"
 
 def test_two():
-    num = 5
+    num = 9
     assert check_even_odd(num) == "Even"
