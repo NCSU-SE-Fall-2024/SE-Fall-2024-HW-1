@@ -2,3 +2,4 @@
 ![Static Badge](https://img.shields.io/badge/license-Apache%202.0-blue)
 ![Static Badge](https://img.shields.io/badge/platform-linux-red)
 ![Build and Deploy](https://github.com/NCSU-SE-Fall-2024/SE-Fall-2024-HW1/actions/workflows/workflow.yml/badge.svg)
+[![Coverage](https://coveralls.io/repos/github/NCSU-SE-Fall-2024/SE-Fall-2024-HW1/badge.svg?branch=main)](https://coveralls.io/github/NCSU-SE-Fall-2024/SE-Fall-2024-HW1?branch=main)
