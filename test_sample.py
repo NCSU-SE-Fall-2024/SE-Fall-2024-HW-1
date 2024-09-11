@@ -1,5 +1,5 @@
 import pytest
-from myfile import check_even_odd
+from HW_1.myfile import check_even_odd
 
 def test_one():
     num = 5
